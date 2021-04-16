@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/To-Do-List/static/css/main.cc2eb12d.chunk.css",
+    "main.js": "/To-Do-List/static/js/main.fdced5d7.chunk.js",
+    "main.js.map": "/To-Do-List/static/js/main.fdced5d7.chunk.js.map",
+    "runtime-main.js": "/To-Do-List/static/js/runtime-main.d60f3cab.js",
+    "runtime-main.js.map": "/To-Do-List/static/js/runtime-main.d60f3cab.js.map",
+    "static/js/2.9e182aa1.chunk.js": "/To-Do-List/static/js/2.9e182aa1.chunk.js",
+    "static/js/2.9e182aa1.chunk.js.map": "/To-Do-List/static/js/2.9e182aa1.chunk.js.map",
+    "index.html": "/To-Do-List/index.html",
+    "static/css/main.cc2eb12d.chunk.css.map": "/To-Do-List/static/css/main.cc2eb12d.chunk.css.map",
+    "static/js/2.9e182aa1.chunk.js.LICENSE.txt": "/To-Do-List/static/js/2.9e182aa1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/To-Do-List/static/media/bg.f3830bf0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d60f3cab.js",
+    "static/js/2.9e182aa1.chunk.js",
+    "static/css/main.cc2eb12d.chunk.css",
+    "static/js/main.fdced5d7.chunk.js"
+  ]
+}
